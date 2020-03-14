@@ -15,6 +15,22 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF73240231": {
+    "contest_id": 1325,
+    "language": "GNU C++11",
+    "path": "codeforces/1325/B.cpp",
+    "problem_index": "B",
+    "problem_name": "CopyCopyCopyCopyCopy",
+    "problem_url": "https://codeforces.com/contest/1325/problem/B",
+    "submission_id": "CF73240231",
+    "submission_url": "https://codeforces.com/contest/1325/submission/73240231",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/14/2020 18:58"
+  },
   "CF73398651": {
     "contest_id": 580,
     "language": "GNU C++11",
