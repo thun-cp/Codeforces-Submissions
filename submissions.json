@@ -15,6 +15,21 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF85042693": {
+    "contest_id": 1373,
+    "language": "GNU C++11",
+    "path": "codeforces/1373/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Pluses and Minuses",
+    "problem_url": "https://codeforces.com/contest/1373/problem/C",
+    "submission_id": "CF85042693",
+    "submission_url": "https://codeforces.com/contest/1373/submission/85042693",
+    "tags": [
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/25/2020 20:13"
+  },
   "CF85063245": {
     "contest_id": 766,
     "language": "GNU C++11",
