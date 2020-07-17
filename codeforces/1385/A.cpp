@@ -2,9 +2,6 @@
 #define pb push_back
 #define mp make_pair
 #define endl '\n'
-#define F first
-#define S second
-#define codeforces ll tttt;cin>>tttt;while(tttt--)
 using namespace std;
 typedef long long ll;
 typedef long double ld;
@@ -23,6 +20,8 @@ void solve(){
 }
 
 int main(){
-    codeforces
+    ll t;
+    cin>>t;
+    while(t--)
     solve();
 }
