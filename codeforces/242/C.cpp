@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#pragma GCC optimize("Ofast")
 #define pb push_back
 #define mp make_pair
 #define endl '\n'
