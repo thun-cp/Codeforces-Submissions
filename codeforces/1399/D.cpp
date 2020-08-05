@@ -1,8 +1,7 @@
 #include "bits/stdc++.h"
 #pragma comment(linker, "/stack:200000000")
 #pragma GCC optimize("Ofast")
-#pragma GCC target("avx,avx2,fma")
-#pragma GCC optimization ("unroll-loops")
+#pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,tune=native")
 #define pb push_back
 #define mp make_pair
 #define mt make_tuple
@@ -16,7 +15,7 @@ typedef long long ll;
 typedef long double ld;
 int dx[] = {-1, -1, -1,  0, 0,  1, 1, 1};
 int dy[] = {-1,  0,  1, -1, 1, -1, 0, 1};
- 
+
 void solve(){
     ll n;
     string s;
@@ -57,9 +56,9 @@ void solve(){
     cout<<last-1<<endl;
     for(auto i:ind) cout<<i<<' ';
     cout<<endl;
- 
+
 }
- 
+
 int main(){
     IO;
     cf
