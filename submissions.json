@@ -15,6 +15,23 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF89002115": {
+    "contest_id": 1399,
+    "language": "GNU C++14",
+    "path": "codeforces/1399/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Boats Competition",
+    "problem_url": "https://codeforces.com/contest/1399/problem/C",
+    "submission_id": "CF89002115",
+    "submission_url": "https://codeforces.com/contest/1399/submission/89002115",
+    "tags": [
+      "brute force",
+      "greedy",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Aug/05/2020 19:15"
+  },
   "CF89023104": {
     "contest_id": 1399,
     "language": "GNU C++14",
