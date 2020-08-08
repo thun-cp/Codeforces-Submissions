@@ -15,6 +15,24 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF89328569": {
+    "contest_id": 129,
+    "language": "GNU C++14",
+    "path": "codeforces/129/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Students and Shoelaces",
+    "problem_url": "https://codeforces.com/contest/129/problem/B",
+    "submission_id": "CF89328569",
+    "submission_url": "https://codeforces.com/contest/129/submission/89328569",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Aug/08/2020 15:00"
+  },
   "CF89334442": {
     "contest_id": 476,
     "language": "GNU C++14",
