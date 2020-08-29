@@ -15,6 +15,22 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF91304420": {
+    "contest_id": 152,
+    "language": "GNU C++17",
+    "path": "codeforces/152/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Steps",
+    "problem_url": "https://codeforces.com/contest/152/problem/B",
+    "submission_id": "CF91304420",
+    "submission_url": "https://codeforces.com/contest/152/submission/91304420",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Aug/29/2020 22:01"
+  },
   "CF91804654": {
     "contest_id": 1409,
     "language": "GNU C++17",
