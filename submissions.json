@@ -15,6 +15,22 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF92408289": {
+    "contest_id": 699,
+    "language": "GNU C++17",
+    "path": "codeforces/699/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Vacations",
+    "problem_url": "https://codeforces.com/contest/699/problem/C",
+    "submission_id": "CF92408289",
+    "submission_url": "https://codeforces.com/contest/699/submission/92408289",
+    "tags": [
+      "brute force",
+      "dp",
+      "*1400"
+    ],
+    "timestamp": "Sep/10/2020 12:02"
+  },
   "CF92408580": {
     "contest_id": 699,
     "language": "GNU C++17",
