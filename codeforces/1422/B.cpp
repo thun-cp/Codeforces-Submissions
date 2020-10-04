@@ -7,7 +7,7 @@
 #define pb push_back
 #define mp make_pair
 #define mt make_tuple
-#define endl '\n'
+//#define endl '\n'
 #define F first
 #define S second
 #define IO ios::sync_with_stdio(0);cin.tie(0);cout.tie(0)
@@ -37,52 +37,24 @@ void solve(){
     ll n,m;
     cin>>n>>m;
     vector<vi> arr(n,vi(m,0));
-    ll lans=0;
-    for(ll i=0;i<n;i++) for(ll j=0;j<m;j++) cin>>arr[i][j];
+    cin>>arr;
+    ll ans=0;
     for(ll i=0;i<(n+1)/2;i++){
         for(ll j=0;j<(m+1)/2;j++){
-            ll num1=arr[i][j],num2=arr[i][m-j-1],num3=arr[n-i-1][j],num4=arr[n-i-1][m-j-1];
-            ll l=min({num1,num2,num3,num4})-3;
-            ll r=max({num1,num2,num3,num4})+3;
-            while(r-l>3){
-                ll m1=l+(r-l)/3;
-                ll m2=r-(r-l)/3;
-                ll tmp1,tmp2;
-                if(i!=n-i-1&&j!=m-j-1){
-                    tmp1=abs(num1-m1)+abs(num2-m1)+abs(num3-m1)+abs(num4-m1);
-                    tmp2=abs(num1-m2)+abs(num2-m2)+abs(num3-m2)+abs(num4-m2);
-                }else if(j!=m-j-1){
-                    tmp1=abs(num1-m1)+abs(num2-m1);
-                    tmp2=abs(num1-m2)+abs(num2-m2);
-                }else{
-                    tmp1=abs(num1-m1)+abs(num3-m1);
-                    tmp2=abs(num1-m2)+abs(num3-m2);
-                }
-                if(tmp1>tmp2) l=m1;
-                else r=m2;
-            }
-            ll ans=LLONG_MAX;
-            ll mid;
-            for(ll z=l;z<=r;z++){
-                ll tmp1;
-                if(i!=n-i-1&&j!=m-j-1){
-                    tmp1=abs(num1-z)+abs(num2-z)+abs(num3-z)+abs(num4-z);
-                }else if(j!=m-j-1){
-                    tmp1=abs(num1-z)+abs(num2-z);
-                }else{
-                    tmp1=abs(num1-z)+abs(num3-z);
-                }
-                if(tmp1<ans){
-                    ans=tmp1;
-                    mid=z;
-                }
-            }
-            //cout<<ans<<' '<<mid<<endl;
-            lans+=ans;
+           ll a=i,b=j,c=n-i-1,d=m-j-1;
+           if(a==c&&b==d) continue;
+           if(a==c||b==d){
+               ans+=abs(arr[a][b]-arr[c][d]);
+               continue;
+           }
+           ll ans1=abs(arr[a][d]-arr[a][b])+abs(arr[c][b]-arr[a][b])+abs(arr[c][d]-arr[a][b]);
+           ll ans2=abs(arr[a][d]-arr[a][b])+abs(arr[c][b]-arr[a][d])+abs(arr[c][d]-arr[a][d]);
+           ll ans3=abs(arr[a][d]-arr[c][b])+abs(arr[c][b]-arr[a][b])+abs(arr[c][d]-arr[c][b]);
+           ll ans4=abs(arr[a][d]-arr[c][d])+abs(arr[c][b]-arr[c][d])+abs(arr[c][d]-arr[a][b]);
+           ans+=min({ans1,ans2,ans3,ans4});
         }
     }
-    cout<<lans<<endl;
-    
+    cout<<ans<<endl;
 }
 
 int main(){
@@ -93,9 +65,9 @@ int main(){
 }
 
 
-template<typename A, typename B> ostream& operator<<(ostream &cout, pair<A, B> const &p) { 
+template<typename A, typename B> ostream& operator<<(ostream &cout, pair<A, B> const &p) {
     if(dbg){
-        return cout << "(" << p.F << ", " << p.S << ")"; 
+        return cout << "(" << p.F << ", " << p.S << ")";
     }else{
         return cout<<p.F<<' '<<p.S;
     }
