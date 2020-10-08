@@ -15,6 +15,24 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF94895419": {
+    "contest_id": 1391,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1391/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Cyclic Permutations ",
+    "problem_url": "https://codeforces.com/contest/1391/problem/C",
+    "submission_id": "CF94895419",
+    "submission_url": "https://codeforces.com/contest/1391/submission/94895419",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Oct/08/2020 12:27"
+  },
   "CF94903291": {
     "contest_id": 748,
     "language": "GNU C++17 (64)",
