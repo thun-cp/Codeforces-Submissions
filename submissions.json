@@ -15,6 +15,21 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF95689311": {
+    "contest_id": 587,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/587/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Duff and Weight Lifting",
+    "problem_url": "https://codeforces.com/contest/587/problem/A",
+    "submission_id": "CF95689311",
+    "submission_url": "https://codeforces.com/contest/587/submission/95689311",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Oct/16/2020 23:03"
+  },
   "CF95690325": {
     "contest_id": 614,
     "language": "GNU C++17 (64)",
