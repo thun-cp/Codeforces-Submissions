@@ -15,6 +15,22 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF96267942": {
+    "contest_id": 1010,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1010/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Fly",
+    "problem_url": "https://codeforces.com/contest/1010/problem/A",
+    "submission_id": "CF96267942",
+    "submission_url": "https://codeforces.com/contest/1010/submission/96267942",
+    "tags": [
+      "binary search",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Oct/21/2020 16:48"
+  },
   "CF96300892": {
     "contest_id": 1179,
     "language": "GNU C++17 (64)",
