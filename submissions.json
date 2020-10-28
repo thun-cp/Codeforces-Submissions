@@ -15,6 +15,21 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF97026147": {
+    "contest_id": 1350,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1350/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Orac and Factors",
+    "problem_url": "https://codeforces.com/contest/1350/problem/A",
+    "submission_id": "CF97026147",
+    "submission_url": "https://codeforces.com/contest/1350/submission/97026147",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Oct/28/2020 21:26"
+  },
   "CF97027581": {
     "contest_id": 1350,
     "language": "GNU C++17 (64)",
