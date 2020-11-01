@@ -15,6 +15,21 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF97364953": {
+    "contest_id": 1322,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1322/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Unusual Competitions",
+    "problem_url": "https://codeforces.com/contest/1322/problem/A",
+    "submission_id": "CF97364953",
+    "submission_url": "https://codeforces.com/contest/1322/submission/97364953",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Nov/01/2020 18:55"
+  },
   "CF97371690": {
     "contest_id": 1228,
     "language": "GNU C++17 (64)",
