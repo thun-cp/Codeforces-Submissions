@@ -14,5 +14,20 @@
       "*1900"
     ],
     "timestamp": "Dec/04/2020 14:04"
+  },
+  "CF98211846": {
+    "contest_id": 1431,
+    "language": "Kotlin",
+    "path": "codeforces/1431/A.kt",
+    "problem_index": "A",
+    "problem_name": "Selling Hamburgers",
+    "problem_url": "https://codeforces.com/contest/1431/problem/A",
+    "submission_id": "CF98211846",
+    "submission_url": "https://codeforces.com/contest/1431/submission/98211846",
+    "tags": [
+      "*special problem",
+      "*800"
+    ],
+    "timestamp": "Nov/12/2020 19:06"
   }
 }
