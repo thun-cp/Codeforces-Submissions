@@ -1,0 +1,18 @@
+{
+  "CF100338707": {
+    "contest_id": 1036,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1036/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Classy Numbers",
+    "problem_url": "https://codeforces.com/contest/1036/problem/C",
+    "submission_id": "CF100338707",
+    "submission_url": "https://codeforces.com/contest/1036/submission/100338707",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Dec/04/2020 14:04"
+  }
+}
