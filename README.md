@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-281 | [A - Diverse Permutation](https://codeforces.com/contest/482/problem/A) | [GNU C++17 (64)](./codeforces/482/A.cpp) | `constructive algorithms` `greedy` `*1200` | Dec/22/2020 15:06 | 
-280 | [C - Table Decorations](https://codeforces.com/contest/478/problem/C) | [GNU C++17 (64)](./codeforces/478/C.cpp) | `greedy` `*1800` | Dec/22/2020 15:06 | 
-279 | [B - Random Teams](https://codeforces.com/contest/478/problem/B) | [GNU C++17 (64)](./codeforces/478/B.cpp) | `combinatorics` `constructive algorithms` `greedy` `math` `*1300` | Dec/22/2020 15:05 | 
-278 | [C - Number of Ways](https://codeforces.com/contest/466/problem/C) | [GNU C++17 (64)](./codeforces/466/C.cpp) | `binary search` `brute force` `data structures` `dp` `two pointers` `*1700` | Dec/22/2020 15:04 | 
+282 | [A - Diverse Permutation](https://codeforces.com/contest/482/problem/A) | [GNU C++17 (64)](./codeforces/482/A.cpp) | `constructive algorithms` `greedy` `*1200` | Dec/22/2020 15:06 | 
+281 | [C - Table Decorations](https://codeforces.com/contest/478/problem/C) | [GNU C++17 (64)](./codeforces/478/C.cpp) | `greedy` `*1800` | Dec/22/2020 15:06 | 
+280 | [B - Random Teams](https://codeforces.com/contest/478/problem/B) | [GNU C++17 (64)](./codeforces/478/B.cpp) | `combinatorics` `constructive algorithms` `greedy` `math` `*1300` | Dec/22/2020 15:05 | 
+279 | [C - Number of Ways](https://codeforces.com/contest/466/problem/C) | [GNU C++17 (64)](./codeforces/466/C.cpp) | `binary search` `brute force` `data structures` `dp` `two pointers` `*1700` | Dec/22/2020 15:04 | 
+278 | [B - Little Dima and Equation](https://codeforces.com/contest/460/problem/B) | [GNU C++17 (64)](./codeforces/460/B.cpp) | `brute force` `implementation` `math` `number theory` `*1500` | Dec/22/2020 15:03 | 
 277 | [C - Classy Numbers](https://codeforces.com/contest/1036/problem/C) | [GNU C++17 (64)](./codeforces/1036/C.cpp) | `combinatorics` `dp` `*1900` | Dec/04/2020 14:04 | 
 276 | [A - Selling Hamburgers](https://codeforces.com/contest/1431/problem/A) | [Kotlin](./codeforces/1431/A.kt) | `*special problem` `*800` | Nov/12/2020 19:06 | 
 275 | [B - Filling the Grid](https://codeforces.com/contest/1228/problem/B) | [GNU C++17 (64)](./codeforces/1228/B.cpp) | `implementation` `math` `*1400` | Nov/01/2020 20:20 | 
