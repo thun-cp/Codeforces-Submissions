@@ -15,6 +15,22 @@
     ],
     "timestamp": "Dec/04/2020 14:04"
   },
+  "CF102034626": {
+    "contest_id": 482,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/482/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Diverse Permutation",
+    "problem_url": "https://codeforces.com/contest/482/problem/A",
+    "submission_id": "CF102034626",
+    "submission_url": "https://codeforces.com/contest/482/submission/102034626",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Dec/22/2020 15:06"
+  },
   "CF73205953": {
     "contest_id": 1323,
     "language": "GNU C++11",
