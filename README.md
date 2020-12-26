@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-283 | [A - Treasure](https://codeforces.com/contest/494/problem/A) | [GNU C++17 (64)](./codeforces/494/A.cpp) | `greedy` `*1500` | Dec/26/2020 22:39 | 
+284 | [A - Treasure](https://codeforces.com/contest/494/problem/A) | [GNU C++17 (64)](./codeforces/494/A.cpp) | `greedy` `*1500` | Dec/26/2020 22:39 | 
+283 | [C - Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) | [GNU C++17 (64)](./codeforces/489/C.cpp) | `dp` `greedy` `implementation` `*1400` | Dec/26/2020 22:25 | 
 282 | [C - Table Decorations](https://codeforces.com/contest/478/problem/C) | [GNU C++17 (64)](./codeforces/478/C.cpp) | `greedy` `*1800` | Dec/22/2020 15:06 | 
 281 | [A - Diverse Permutation](https://codeforces.com/contest/482/problem/A) | [GNU C++17 (64)](./codeforces/482/A.cpp) | `constructive algorithms` `greedy` `*1200` | Dec/22/2020 15:06 | 
 280 | [B - Random Teams](https://codeforces.com/contest/478/problem/B) | [GNU C++17 (64)](./codeforces/478/B.cpp) | `combinatorics` `constructive algorithms` `greedy` `math` `*1300` | Dec/22/2020 15:05 | 
