@@ -12,16 +12,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-298 | [D - Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | [GNU C++17 (64)](./codeforces/1472/D.cpp) | `dp` `games` `greedy` `sortings` | Jan/04/2021 19:28 | 
-297 | [C - Long Jumps](https://codeforces.com/contest/1472/problem/C) | [GNU C++17 (64)](./codeforces/1472/C.cpp) | `dp` `graphs` | Jan/04/2021 18:50 | 
-296 | [B - Fair Division](https://codeforces.com/contest/1472/problem/B) | [GNU C++17 (64)](./codeforces/1472/B.cpp) | `dp` `greedy` | Jan/04/2021 18:42 | 
-295 | [A - Cards for Friends](https://codeforces.com/contest/1472/problem/A) | [GNU C++17 (64)](./codeforces/1472/A.cpp) | `greedy` `math` | Jan/04/2021 18:39 | 
-294 | [C - Canine poetry](https://codeforces.com/contest/1466/problem/C) | [GNU C++17 (64)](./codeforces/1466/C.cpp) | `dp` `greedy` `strings` `*1300` | Dec/30/2020 19:03 | 
-293 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [GNU C++17 (64)](./codeforces/1466/B.cpp) | `dp` `greedy` `*800` | Dec/30/2020 18:51 | 
-292 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [GNU C++17 (64)](./codeforces/1466/A.cpp) | `brute force` `geometry` `math` `*800` | Dec/30/2020 18:43 | 
-291 | [A - Soft Drinking](https://codeforces.com/contest/151/problem/A) | [GNU C++17 (64)](./codeforces/151/A.cpp) | `implementation` `math` `*800` | Dec/30/2020 12:23 | 
-290 | [A - Arrival of the General](https://codeforces.com/contest/144/problem/A) | [GNU C++17 (64)](./codeforces/144/A.cpp) | `implementation` `*800` | Dec/30/2020 12:19 | 
-289 | [A - Sleuth](https://codeforces.com/contest/49/problem/A) | [GNU C++17 (64)](./codeforces/49/A.cpp) | `implementation` `*800` | Dec/30/2020 11:45 | 
+299 | [D - Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | [GNU C++17 (64)](./codeforces/1472/D.cpp) | `dp` `games` `greedy` `sortings` | Jan/04/2021 19:28 | 
+298 | [C - Long Jumps](https://codeforces.com/contest/1472/problem/C) | [GNU C++17 (64)](./codeforces/1472/C.cpp) | `dp` `graphs` | Jan/04/2021 18:50 | 
+297 | [B - Fair Division](https://codeforces.com/contest/1472/problem/B) | [GNU C++17 (64)](./codeforces/1472/B.cpp) | `dp` `greedy` | Jan/04/2021 18:42 | 
+296 | [A - Cards for Friends](https://codeforces.com/contest/1472/problem/A) | [GNU C++17 (64)](./codeforces/1472/A.cpp) | `greedy` `math` | Jan/04/2021 18:39 | 
+295 | [C - Canine poetry](https://codeforces.com/contest/1466/problem/C) | [GNU C++17 (64)](./codeforces/1466/C.cpp) | `dp` `greedy` `strings` `*1300` | Dec/30/2020 19:03 | 
+294 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [GNU C++17 (64)](./codeforces/1466/B.cpp) | `dp` `greedy` `*800` | Dec/30/2020 18:51 | 
+293 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [GNU C++17 (64)](./codeforces/1466/A.cpp) | `brute force` `geometry` `math` `*800` | Dec/30/2020 18:43 | 
+292 | [A - Soft Drinking](https://codeforces.com/contest/151/problem/A) | [GNU C++17 (64)](./codeforces/151/A.cpp) | `implementation` `math` `*800` | Dec/30/2020 12:23 | 
+291 | [A - Arrival of the General](https://codeforces.com/contest/144/problem/A) | [GNU C++17 (64)](./codeforces/144/A.cpp) | `implementation` `*800` | Dec/30/2020 12:19 | 
+290 | [A - Sleuth](https://codeforces.com/contest/49/problem/A) | [GNU C++17 (64)](./codeforces/49/A.cpp) | `implementation` `*800` | Dec/30/2020 11:45 | 
+289 | [A - Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | [GNU C++17 (64)](./codeforces/34/A.cpp) | `implementation` `*800` | Dec/30/2020 11:37 | 
 288 | [D - Ceil Divisions](https://codeforces.com/contest/1469/problem/D) | [GNU C++17 (64)](./codeforces/1469/D.cpp) | `brute force` `constructive algorithms` `math` `number theory` | Dec/28/2020 23:21 | 
 287 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [GNU C++17 (64)](./codeforces/1469/B.cpp) | `greedy` | Dec/28/2020 19:33 | 
 286 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [GNU C++17 (64)](./codeforces/1469/A.cpp) | `constructive algorithms` `greedy` | Dec/28/2020 19:02 | 
