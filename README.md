@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+289 | [D - Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | [GNU C++17 (64)](./codeforces/1472/D.cpp) | `dp` `games` `greedy` `sortings` | Jan/04/2021 19:28 | 
 288 | [D - Ceil Divisions](https://codeforces.com/contest/1469/problem/D) | [GNU C++17 (64)](./codeforces/1469/D.cpp) | `brute force` `constructive algorithms` `math` `number theory` | Dec/28/2020 23:21 | 
 287 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [GNU C++17 (64)](./codeforces/1469/B.cpp) | `greedy` | Dec/28/2020 19:33 | 
 286 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [GNU C++17 (64)](./codeforces/1469/A.cpp) | `constructive algorithms` `greedy` | Dec/28/2020 19:02 | 
